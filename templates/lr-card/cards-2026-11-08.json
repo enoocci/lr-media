@@ -1,0 +1,540 @@
+[
+{
+"id": "sv-geographie",
+"date": "2026-11-08",
+"time": "11:00",
+"layout": "dark",
+"icon": "haiti",
+"bg": "#C3232B",
+"badge": "LE SAVIEZ-VOUS ?",
+"title": "Haïti en 3 chiffres <em>de&nbsp;géographie</em>",
+"lede": "Le pays occupe l'ouest de l'île d'Hispaniola, partagée avec la République dominicaine.",
+"keys": [
+[
+"27 750 km²",
+"Superficie totale d'Haïti, terres et eaux comprises."
+],
+[
+"2 680 m",
+"Le <b>Pic la Selle</b>, point culminant d'Haïti."
+],
+[
+"1 771 km",
+"De côtes, sur la mer des Caraïbes et l'océan Atlantique."
+]
+],
+"q": "Le Pic la Selle, vous l'avez vu ? A) Oui, de près · B) En photo · C) Jamais",
+"fol": "pour mieux connaître Haïti",
+"src": "Sources : CCRIF SPC (fiche pays Haïti), globalEDGE – Michigan State University (statistiques Haïti)"
+},
+{
+"id": "compost",
+"date": "2026-11-08",
+"time": "16:30",
+"layout": "dark",
+"icon": "compost",
+"badge": "ENVIRONNEMENT",
+"title": "Faites votre compost <em>à la&nbsp;maison</em>",
+"lede": "Épluchures + feuilles sèches = engrais gratuit pour le jardin.",
+"keys": [
+[
+"30 %+",
+"Restes de cuisine et déchets de jardin : <b>plus de 30 %</b> de ce que l'on jette."
+],
+[
+"50 / 50",
+"Autant de <b>« bruns »</b> (feuilles sèches, carton) que de <b>« verts »</b> (épluchures, marc de café)."
+],
+[
+"Humide",
+"Comme une <b>éponge essorée</b>. Retournez le tas toutes les 2 à 4 semaines."
+],
+[
+"Interdit",
+"Viande, poisson, laitages, huiles, crottes d'animaux : <b>odeurs et nuisibles</b>."
+]
+],
+"q": "Vos épluchures finissent : A) À la poubelle · B) Aux animaux · C) Au compost",
+"fol": "pour tout comprendre sur l'environnement",
+"src": "Sources : EPA (Agence américaine de protection de l'environnement), NDSU Extension (Université d'État du Dakota du Nord)"
+},
+{
+"id": "chiffre-deplaces",
+"date": "2026-11-08",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Haïti · septembre 2026",
+"num": "1,5 <em>million</em>",
+"unit": "de personnes déplacées par la violence en&nbsp;Haïti",
+"ctx": [
+"Plus d'1 Haïtien sur 10 a dû quitter son domicile.",
+"Près de 80 % vivent hors de Port-au-Prince (OIM)."
+],
+"q": "Pour le retour des déplacés, la priorité : A) La sécurité · B) Le logement · C) L'emploi",
+"fol": "pour comprendre Haïti en chiffres",
+"src": "Sources : Banque mondiale (Haïti, vue d'ensemble, nov. 2026), OIM (Organisation internationale pour les migrations) via Reuters, 25 sept. 2026"
+},
+{
+"id": "histoire-dessalines",
+"date": "2026-11-09",
+"time": "11:00",
+"layout": "histoire",
+"country": "Haïti",
+"name": "Jean-Jacques Dessalines",
+"dates": "v. 1758 – 1806",
+"wm": "JJD",
+"quote": "J'ai vengé l'Amérique.",
+"qsrc": "Proclamation aux habitants d'Haïti, 28 avril 1804",
+"tagline": "Le fondateur <em>de la nation&nbsp;haïtienne</em>",
+"keys": [
+[
+"1804",
+"Le <b>1<sup>er</sup> janvier</b>, il proclame l'indépendance d'Haïti."
+],
+[
+"Jacques Ier",
+"En septembre 1804, il prend le titre d'<b>empereur</b>."
+],
+[
+"1806",
+"<b>Assassiné le 17 octobre</b> à Pont-Rouge, près de Port-au-Prince."
+]
+],
+"q": "Son plus grand héritage ? A) L'indépendance · B) La fierté noire · C) L'unité",
+"fol": "pour ne pas rater la suite de la série",
+"src": "Sources : Encyclopædia Britannica, Encyclopædia Universalis ; citation : Julia Gaffield (Archives nationales du Royaume-Uni), Université George Washington",
+"hh": 450
+},
+{
+"id": "cholera",
+"date": "2026-11-09",
+"time": "16:30",
+"layout": "dark",
+"icon": "cholera",
+"badge": "SANTÉ · EAU",
+"title": "Choléra : <em>les gestes qui&nbsp;sauvent</em>",
+"lede": "Diarrhée très liquide, vomissements ? Réhydratez tout de suite.",
+"keys": [
+[
+"12 h – 5 j",
+"Délai entre l'infection et les <b>premiers symptômes</b>."
+],
+[
+"Quelques h",
+"Sans traitement, le choléra <b>peut tuer en quelques heures</b>."
+],
+[
+"SRO",
+"Les <b>sels de réhydratation orale</b>, donnés vite, soignent la plupart des malades."
+],
+[
+"Prévention",
+"<b>Eau traitée</b>, latrines, lavage des mains au savon, aliments bien cuits."
+]
+],
+"q": "Chez vous, il y a des sachets de SRO ? A) Oui · B) Non · C) Je ne sais pas",
+"fol": "pour protéger votre famille",
+"src": "Sources : OMS (Organisation mondiale de la santé), Département de la Santé de l'Utah (États-Unis)"
+},
+{
+"id": "chiffre-faim",
+"date": "2026-11-09",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Haïti · mars – juin 2026",
+"num": "5,83 <em>millions</em>",
+"unit": "d'Haïtiens en insécurité alimentaire&nbsp;aiguë",
+"ctx": [
+"C'est plus de la moitié de la population du pays.",
+"Près de 1,9 million de personnes sont au niveau « urgence »."
+],
+"q": "La première solution contre la faim : A) Produire local · B) La sécurité · C) L'aide d'urgence",
+"fol": "pour comprendre Haïti en chiffres",
+"src": "Sources : IPC (Cadre intégré de classification de la sécurité alimentaire) via AP / PBS, 17 avril 2026 ; Banque mondiale (nov. 2026)"
+},
+{
+"id": "sv-citadelle",
+"date": "2026-11-10",
+"time": "11:00",
+"layout": "dark",
+"icon": "haiti",
+"bg": "#C3232B",
+"badge": "LE SAVIEZ-VOUS ?",
+"title": "La Citadelle, <em>patrimoine de l'humanité</em>",
+"lede": "Avec le palais Sans-Souci et le site des Ramiers, dans le Nord d'Haïti.",
+"keys": [
+[
+"1805–1820",
+"Construite après l'indépendance, sur ordre d'<b>Henri Christophe</b>."
+],
+[
+"20 000",
+"Ouvriers, environ, ont travaillé sur ce chantier géant."
+],
+[
+"1982",
+"Inscrite au <b>patrimoine mondial de l'UNESCO</b>."
+]
+],
+"q": "La Citadelle, vous l'avez visitée ? A) Oui · B) Pas encore · C) C'est prévu",
+"fol": "pour mieux connaître Haïti",
+"src": "Sources : fiches UNESCO « Parc national historique – Citadelle, Sans-Souci, Ramiers » sur World Heritage Site et Everything Everywhere"
+},
+{
+"id": "brulure",
+"date": "2026-11-10",
+"time": "16:30",
+"layout": "dark",
+"icon": "burn",
+"bg": "#C3232B",
+"badge": "PREMIERS SECOURS",
+"title": "Brûlure : <em>les bons&nbsp;réflexes</em>",
+"lede": "De l'eau fraîche d'abord. Jamais de beurre, d'huile ni de dentifrice.",
+"keys": [
+[
+"10 – 20 min",
+"Sous l'<b>eau fraîche qui coule</b> (pas glacée), le plus vite possible."
+],
+[
+"Bagues",
+"Retirez bijoux et vêtements serrés <b>avant que ça gonfle</b>, sauf ce qui colle."
+],
+[
+"Cloques",
+"<b>Ne les percez pas.</b> Couvrez sans serrer, avec un linge propre."
+],
+[
+"Urgence",
+"Visage, sexe, brûlure <b>électrique ou chimique</b>, grande brûlure : à l'hôpital."
+]
+],
+"q": "Sur une brûlure, chez vous on met : A) De l'eau · B) Du dentifrice · C) De l'huile",
+"fol": "pour protéger votre famille",
+"src": "Sources : NHS (service public de santé britannique), Mayo Clinic"
+},
+{
+"id": "chiffre-recession",
+"date": "2026-11-10",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Économie haïtienne",
+"num": "8 <em>ans</em>",
+"unit": "de recul du PIB réel, d'affilée, en&nbsp;2026",
+"ctx": [
+"−2,7 % en 2025, puis environ −1,5 % estimé en 2026 (Banque mondiale).",
+"Le FMI constatait 7 ans de contraction en 2025 et en prévoyait une 8<sup>e</sup>."
+],
+"q": "Ce qui relancerait l'économie d'abord : A) La sécurité · B) L'électricité · C) L'agriculture",
+"fol": "pour comprendre Haïti en chiffres",
+"src": "Sources : Banque mondiale (Haïti, vue d'ensemble, nov. 2026), FMI (communiqué du 21 mai 2026)"
+},
+{
+"id": "histoire-lumumba",
+"date": "2026-11-11",
+"time": "11:00",
+"layout": "histoire",
+"country": "Congo",
+"name": "Patrice Lumumba",
+"dates": "1925 – 1961",
+"wm": "PL",
+"quote": "L'Afrique écrira sa propre histoire et elle sera au nord et au sud du Sahara une histoire de gloire et de dignité.",
+"qsrc": "Dernière lettre à son épouse Pauline",
+"tagline": "La voix de <em>l'indépendance</em>",
+"keys": [
+[
+"1925",
+"Né le <b>2 juillet</b> au Congo belge."
+],
+[
+"1960",
+"En juin, il devient le <b>premier Premier ministre</b> du Congo indépendant."
+],
+[
+"1961",
+"Démis en septembre 1960, il est <b>exécuté le 17 janvier 1961</b>."
+]
+],
+"q": "Lumumba, pour vous : A) Un héros · B) Un martyr · C) Un symbole",
+"fol": "pour ne pas rater la suite de la série",
+"src": "Sources : Encyclopædia Britannica, South African History Online ; lettre : Afrik.com, Wakat Séra",
+"hh": 500,
+"css": ".qt .x{font-size:30px}.hs .nm{font-size:84px}"
+},
+{
+"id": "kerosene",
+"date": "2026-11-11",
+"time": "16:30",
+"layout": "dark",
+"icon": "lamp",
+"badge": "ÉNERGIE · SANTÉ",
+"title": "Lampe à kérosène : <em>passez au&nbsp;solaire</em>",
+"lede": "Le kérosène éclaire mal, enfume la maison et peut brûler.",
+"keys": [
+[
+"OMS",
+"Elle recommande de <b>ne pas utiliser le kérosène</b> comme combustible à la maison (2014)."
+],
+[
+"Dangers",
+"<b>Brûlures</b>, <b>intoxications d'enfants</b>, fumée noire dans la maison."
+],
+[
+"250 – 500 M",
+"De ménages dans le monde s'éclairent encore avec des <b>lampes à combustible</b>."
+],
+[
+"Solaire",
+"Lanternes solaires, kits photovoltaïques, mini-réseaux : <b>les solutions existent</b>."
+]
+],
+"q": "Chez vous, la nuit : A) Kérosène ou bougie · B) Lampe solaire · C) EDH ou génératrice",
+"fol": "pour tout comprendre sur l'énergie",
+"src": "Sources : OMS (Lignes directrices sur la combustion domestique, 2014), Coalition pour le climat et l'air pur (CCAC, PNUE)"
+},
+{
+"id": "chiffre-melissa",
+"date": "2026-11-11",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Caraïbe · ouragan Melissa (2025)",
+"num": "8,8 <em>milliards $</em>",
+"unit": "de dégâts physiques en Jamaïque",
+"ctx": [
+"Soit 41 % du PIB jamaïcain de 2024 : l'ouragan le plus coûteux de son histoire.",
+"Logements : 41 % des dégâts ; infrastructures : 33 %."
+],
+"q": "La Caraïbe est-elle prête pour le prochain ouragan ? A) Oui · B) Un peu · C) Pas du tout",
+"fol": "pour suivre la Caraïbe",
+"src": "Sources : Banque mondiale et BID (Banque interaméricaine de développement), estimation GRADE, 19 nov. 2025",
+"css": ".cf .num{font-size:170px}"
+},
+{
+"id": "sv-vetiver",
+"date": "2026-11-12",
+"time": "11:00",
+"layout": "dark",
+"icon": "haiti",
+"bg": "#C3232B",
+"badge": "LE SAVIEZ-VOUS ?",
+"title": "Haïti, géant mondial <em>du&nbsp;vétiver</em>",
+"lede": "Cette racine du Sud parfume de grands parfums dans le monde entier.",
+"keys": [
+[
+"≈ 50 %",
+"De l'offre mondiale de vétiver vient d'<b>Haïti</b>."
+],
+[
+"27 000",
+"Familles d'agriculteurs du Sud-Ouest en vivaient (Reuters, 2014)."
+],
+[
+"Les Cayes",
+"La région autour de la ville est le <b>cœur de la production</b>."
+]
+],
+"q": "Le vétiver, vous connaissiez ? A) Oui · B) Non · C) Ma famille en cultive",
+"fol": "pour mieux connaître Haïti",
+"src": "Sources : Givaudan (parfumeur), Reuters (24 avril 2014)"
+},
+{
+"id": "monoxyde",
+"date": "2026-11-12",
+"time": "16:30",
+"layout": "dark",
+"icon": "co",
+"bg": "#C3232B",
+"badge": "SÉCURITÉ · MAISON",
+"title": "Charbon dans la maison : <em>danger&nbsp;invisible</em>",
+"lede": "Le monoxyde de carbone (CO) ne se voit pas et ne se sent pas.",
+"keys": [
+[
+"0 odeur",
+"Gaz <b>incolore et inodore</b> : il peut tuer brutalement."
+],
+[
+"Jamais",
+"De réchaud à charbon, de gril ou de génératrice <b>dans une pièce fermée</b>."
+],
+[
+"Signes",
+"Maux de tête, vertiges, faiblesse, nausées, vomissements, confusion."
+],
+[
+"Air frais",
+"Au moindre doute, <b>sortez à l'air libre</b> et appelez les secours."
+]
+],
+"q": "Votre réchaud à charbon est : A) Dehors · B) Cuisine ouverte · C) Dans la maison",
+"fol": "pour protéger votre famille",
+"src": "Sources : CDC (Centres américains de contrôle et de prévention des maladies), Département de la Santé de Virginie-Occidentale"
+},
+{
+"id": "chiffre-transferts",
+"date": "2026-11-12",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Haïti · diaspora · 2024",
+"num": "16,9 <em>%</em>",
+"unit": "du PIB d'Haïti : les transferts d'argent de la&nbsp;diaspora",
+"ctx": [
+"4,1 milliards $ de transferts reçus en 2024, +9,5 % sur un an (BRH).",
+"Source : indicateur Banque mondiale des transferts personnels reçus."
+],
+"q": "Vous envoyez de l'argent en Haïti ? A) Chaque mois · B) De temps en temps · C) Non",
+"fol": "pour comprendre Haïti en chiffres",
+"src": "Sources : Banque mondiale (Indicateurs du développement dans le monde, via TheGlobalEconomy et Statistics of the World), BRH via Le Nouvelliste"
+},
+{
+"id": "histoire-sankara",
+"date": "2026-11-13",
+"time": "11:00",
+"layout": "histoire",
+"country": "Burkina Faso",
+"name": "Thomas Sankara",
+"dates": "1949 – 1987",
+"wm": "TS",
+"quote": "Oser inventer l'avenir.",
+"qsrc": "Entretien avec le journaliste Jean-Philippe Rapp, 1985",
+"tagline": "Le président <em>de l'audace</em>",
+"keys": [
+[
+"1983",
+"Il prend le pouvoir le <b>4 août</b>, à 33 ans."
+],
+[
+"1984",
+"La Haute-Volta devient le <b>Burkina Faso</b>, le 4 août."
+],
+[
+"1987",
+"<b>Assassiné le 15 octobre</b>, lors du coup d'État de Blaise Compaoré."
+]
+],
+"q": "Ce qu'il faut retenir de Sankara : A) L'intégrité · B) L'audace · C) L'indépendance",
+"fol": "pour ne pas rater la suite de la série",
+"src": "Sources : Encyclopædia Universalis, BlackPast ; citation : Le Monde diplomatique, « Thomas Sankara Speaks » (Pathfinder)",
+"hh": 450
+},
+{
+"id": "leptospirose",
+"date": "2026-11-13",
+"time": "16:30",
+"layout": "dark",
+"icon": "rat",
+"badge": "SANTÉ",
+"title": "Rats et eau sale : <em>gare à la&nbsp;leptospirose</em>",
+"lede": "Une bactérie présente dans l'urine d'animaux infectés, dont les rats.",
+"keys": [
+[
+"Plaies",
+"Elle entre par les <b>coupures</b>, plus rarement par la bouche, le nez, les yeux."
+],
+[
+"5 – 14 j",
+"Délai habituel avant les signes (de <b>2 à 30 jours</b>)."
+],
+[
+"Bottes",
+"<b>Bottes et pansements étanches</b> dans la boue ou l'eau sale."
+],
+[
+"Vite",
+"Fièvre, maux de tête, yeux rouges : <b>consultez</b>. Les antibiotiques marchent mieux tôt."
+]
+],
+"q": "Chez vous, les rats : A) Partout · B) Parfois · C) Jamais",
+"fol": "pour protéger votre famille",
+"src": "Sources : CDC (Centres américains de contrôle et de prévention des maladies), NSW Health (Australie)"
+},
+{
+"id": "chiffre-inflation",
+"date": "2026-11-13",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Haïti · 2026",
+"num": "21,5 <em>%</em>",
+"unit": "d'inflation : la vie coûte toujours plus&nbsp;cher",
+"ctx": [
+"FMI (avril 2026) : 22,1 % sur un an, après un pic d'environ 32 % fin de l'exercice 2025.",
+"Ce sont les ménages pauvres qui en paient le prix le plus lourd."
+],
+"q": "Ce qui a le plus augmenté pour vous : A) La nourriture · B) Le transport · C) Le loyer",
+"fol": "pour comprendre Haïti en chiffres",
+"src": "Sources : Banque mondiale (Haïti, vue d'ensemble, nov. 2026), FMI (communiqué du 6 avril 2026)"
+},
+{
+"id": "sv-vertieres",
+"date": "2026-11-14",
+"time": "11:00",
+"layout": "dark",
+"icon": "haiti",
+"bg": "#C3232B",
+"badge": "LE SAVIEZ-VOUS ?",
+"title": "18 novembre 1803 : <em>Vertières</em>",
+"lede": "La bataille décisive de la guerre d'indépendance, près du Cap-Français.",
+"keys": [
+[
+"18 nov. 1803",
+"L'armée de <b>Dessalines</b> bat les Français du général <b>Rochambeau</b>, qui capitule."
+],
+[
+"Capois",
+"<b>Capois-La-Mort</b> mène l'assaut. Son cheval est tué par un boulet."
+],
+[
+"1<sup>er</sup> janv. 1804",
+"Six semaines plus tard, <b>Haïti proclame son indépendance</b>."
+]
+],
+"q": "Le héros de Vertières pour vous : A) Capois-La-Mort · B) Dessalines · C) Les soldats anonymes",
+"fol": "pour mieux connaître Haïti",
+"src": "Sources : Hérodote.net, RCI (Radio Caraïbes Internationale)"
+},
+{
+"id": "moustiquaire",
+"date": "2026-11-14",
+"time": "16:30",
+"layout": "dark",
+"icon": "net",
+"badge": "SANTÉ",
+"title": "Moustiquaire : <em>faites-la&nbsp;durer</em>",
+"lede": "Bien entretenue, une moustiquaire imprégnée protège pendant des années.",
+"keys": [
+[
+"3 ans+",
+"Son insecticide reste efficace <b>au moins 3 ans</b>, même après des lavages."
+],
+[
+"1 / 3 mois",
+"Lavez-la <b>seulement si elle est sale</b>, au savon doux, sans frotter."
+],
+[
+"À l'ombre",
+"Le soleil abîme l'insecticide : <b>séchez-la à l'ombre</b>."
+],
+[
+"Trous",
+"Recousez ou nouez <b>chaque trou</b> dès que vous le voyez."
+]
+],
+"q": "Votre moustiquaire a : A) Moins d'1 an · B) Plus de 3 ans · C) Pas de moustiquaire",
+"fol": "pour protéger votre famille",
+"src": "Sources : CDC (Centres américains de contrôle et de prévention des maladies), The Compass for SBC (programme USAID)"
+},
+{
+"id": "chiffre-electricite",
+"date": "2026-11-14",
+"time": "19:00",
+"layout": "chiffre",
+"tag": "Haïti · énergie · 2024",
+"num": "53,9 <em>%</em>",
+"unit": "des Haïtiens ont accès à l'électricité",
+"ctx": [
+"Près d'1 Haïtien sur 2 vit donc encore sans électricité.",
+"C'était environ 47,1 % en 2021, selon la Banque mondiale."
+],
+"q": "Chez vous, le courant vient de : A) L'EDH · B) Le solaire · C) Une génératrice",
+"fol": "pour tout comprendre sur l'énergie",
+"src": "Sources : Banque mondiale (indicateur EG.ELC.ACCS.ZS, ODD 7.1.1, via Statista et Statistics of the World ; communiqué du 18 oct. 2024)"
+}
+]

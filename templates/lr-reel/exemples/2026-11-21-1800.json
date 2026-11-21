@@ -1,0 +1,8 @@
+{"theme":"light","series":"IMMIGRATION","music":"music/lr-news-1.mp3","musicStart":14,
+"hook":{"big":"Expulsé vers un pays qui n'est pas le vôtre ?","sub":"La Cour suprême s'en saisit"},
+"screens":[
+{"k":"LE DOSSIER","big":"DHS c. D.V.D.","txt":"Les expulsions vers des « pays tiers » arrivent devant la Cour suprême des États-Unis."},
+{"k":"LA DATE","big":"9 décembre","txt":"Les neuf juges entendront les deux camps lors d'une audience."},
+{"k":"DÉJÀ LE 29 SEPTEMBRE","big":"Feu vert provisoire","txt":"La Cour avait suspendu le jugement qui bloquait ces expulsions. 3 juges sur 9 s'y opposaient."},
+{"k":"QUI EST CONCERNÉ ?","big":"Ordre d'expulsion définitif","txt":"Des migrants renvoyés vers un pays autre que le leur."}],
+"final":{"q":"Selon vous, la Cour suprême va…","opts":["Valider ces expulsions","Les encadrer","Les bloquer"],"suite":false}}

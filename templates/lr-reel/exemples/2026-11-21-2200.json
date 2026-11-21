@@ -1,0 +1,8 @@
+{"theme":"dark","series":"UKRAINE","music":"music/lr-news-2.mp3","musicStart":71,
+"hook":{"big":"Frappe sur la ville natale de Zelensky","sub":"Kryvyi Rih, Ukraine"},
+"screens":[
+{"k":"LE BILAN","big":"2 morts","txt":"Dont un enfant de 7 ans. Des dizaines de blessés, selon les autorités locales."},
+{"k":"DOUBLE FRAPPE","big":"Les secours touchés","txt":"Une nouvelle frappe a visé le site après l'arrivée des secouristes et des soignants."},
+{"k":"LES DÉGÂTS","big":"Un hôpital endommagé","txt":"Plus de 20 immeubles d'habitation touchés, selon un bilan provisoire."},
+{"k":"QUAND ?","big":"Vendredi soir","txt":"Le 20 novembre, en plein centre-ville, par des missiles balistiques."}],
+"final":{"q":"Selon vous, les négociations peuvent-elles arrêter ces frappes ?","opts":["Oui, bientôt","Pas avant longtemps","Non"],"suite":false}}

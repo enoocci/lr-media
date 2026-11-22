@@ -1,2 +1,4 @@
 templates/lr-card/node_modules/
 templates/lr-card/package*.json
+/node_modules/
+/package*.json

@@ -1,0 +1,8 @@
+{"theme":"dark","series":"UKRAINE","music":"music/lr-news-2.mp3","musicStart":25,
+"hook":{"big":"Un immeuble éventré près de Kyiv","sub":"Dymer, Ukraine — dimanche"},
+"screens":[
+{"k":"L'ATTAQUE","big":"Un drone russe","txt":"Il a frappé un immeuble de 5 étages dans la nuit de samedi à dimanche."},
+{"k":"LE BILAN","big":"Au moins 2 morts","txt":"Les secours cherchent encore des disparus, dont 2 enfants. 9 personnes évacuées."},
+{"k":"CETTE NUIT","big":"186 drones","txt":"Lancés par la Russie, selon l'armée de l'air ukrainienne. 161 abattus ou neutralisés."},
+{"k":"L'APPEL DE KYIV","big":"Des Patriot, vite","txt":"Zelensky presse Washington de livrer des missiles antiaériens déjà financés par les alliés."}],
+"final":{"q":"Selon vous, Washington va-t-il livrer ces Patriot ?","opts":["Oui, rapidement","Oui, mais tard","Non"],"suite":false}}

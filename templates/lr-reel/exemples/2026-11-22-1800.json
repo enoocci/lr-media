@@ -1,0 +1,8 @@
+{"theme":"light","series":"IMMIGRATION","music":"music/lr-news-1.mp3","musicStart":22,
+"hook":{"big":"Arrêtés par l'ICE à l'embarquement","sub":"Aéroport de Seattle, samedi"},
+"screens":[
+{"k":"LE VOL","big":"Alaska 1306","txt":"Seattle → Los Angeles. L'arrestation a eu lieu sur la passerelle, pendant l'embarquement."},
+{"k":"LE BILAN","big":"2 passagers arrêtés","txt":"Par des agents de l'immigration (ICE), devant les autres voyageurs. Le vol a été retardé."},
+{"k":"L'AÉROPORT","big":"Indignation","txt":"Le port de Seattle affirme que l'ICE agit sans sa participation ni son information."},
+{"k":"LA COMPAGNIE","big":"Pas prévenue","txt":"Alaska Airlines dit ne pas avoir été avertie. Le gouverneur de l'État de Washington condamne."}],
+"final":{"q":"Des arrestations de l'ICE jusque dans les avions, vous trouvez ça…","opts":["Normal","Choquant","Ça dépend des cas"],"suite":false}}

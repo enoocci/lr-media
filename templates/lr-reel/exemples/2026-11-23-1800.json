@@ -1,0 +1,8 @@
+{"theme":"dark","series":"UKRAINE","music":"music/lr-news-2.mp3","musicStart":48,
+"hook":{"big":"Un navire de guerre russe coulé… en Libye","sub":"Port de Benghazi, dimanche"},
+"screens":[
+{"k":"LA CIBLE","big":"La corvette Merkury","txt":"Un des navires les plus récents de la marine russe, à quai à Benghazi, dans l'est de la Libye."},
+{"k":"L'ARME","big":"7 drones marins","txt":"De fabrication ukrainienne, selon Volodymyr Zelensky, qui a revendiqué l'attaque lundi."},
+{"k":"AUSSI TOUCHÉS","big":"Un hélicoptère et un cargo","txt":"Un hélicoptère Ka-27 détruit et un cargo visé, selon Kyiv. Moscou n'a pas confirmé le naufrage."},
+{"k":"LA RÉPONSE DU KREMLIN","big":"« Tendance très dangereuse »","txt":"Moscou promet des conséquences « douloureuses ». L'ONU réclame une enquête indépendante en Libye."}],
+"final":{"q":"Selon vous, cette guerre en mer va-t-elle s'étendre ?","opts":["Oui, en Méditerranée","Non, c'est ponctuel","Trop tôt pour le dire"],"suite":true}}

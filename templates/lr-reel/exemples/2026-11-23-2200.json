@@ -1,0 +1,8 @@
+{"theme":"light","series":"HAÏTI","music":"music/lr-haiti.mp3","musicStart":30,
+"hook":{"big":"Soldats salvadoriens en Haïti : Bukele parle","sub":"Après la mort de 3 militaires"},
+"screens":[
+{"k":"LE BILAN","big":"3 soldats morts","txt":"Des militaires salvadoriens déployés en Haïti contre les gangs. Bukele évoque une explosion lors d'une opération."},
+{"k":"POUR LES FAMILLES","big":"200 000 $ chacune","txt":"Un fonds d'un million de dollars, avec aussi un revenu mensuel, annoncé dimanche par Nayib Bukele."},
+{"k":"L'ANNONCE SURPRISE","big":"Libres de rentrer","txt":"Les soldats qui veulent quitter Haïti pourront le faire « sans crainte de représailles », dit Bukele."},
+{"k":"TOUJOURS SANS NOUVELLES","big":"4 disparus","txt":"Quatre soldats salvadoriens restent introuvables depuis une attaque le 18 octobre en zone de gangs."}],
+"final":{"q":"Selon vous, la mission salvadorienne en Haïti doit…","opts":["Continuer","Être encadrée par l'ONU","S'arrêter"],"suite":true}}

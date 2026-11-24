@@ -1,0 +1,8 @@
+{"theme":"dark","series":"UKRAINE","music":"music/lr-news-2.mp3","musicStart":95,
+"hook":{"big":"Nouvelle nuit d'attaques russes","sub":"Ukraine, lundi 23 au mardi 24 novembre"},
+"screens":[
+{"k":"CETTE NUIT","big":"96 drones lancés","txt":"Dont 64 drones à réaction, selon l'armée de l'air ukrainienne."},
+{"k":"LA DÉFENSE","big":"73 neutralisés","txt":"Abattus ou brouillés. Des impacts signalés sur 13 sites à travers le pays."},
+{"k":"ZAPORIJJIA","big":"2 morts, des dizaines de blessés","txt":"Un immeuble d'habitation de cinq étages partiellement détruit, selon le gouverneur régional."},
+{"k":"EN POLOGNE AUSSI","big":"Débris sur 3 sites","txt":"Des restes de missiles de croisière russes Kh-101 retrouvés après l'incursion du 20 novembre."}],
+"final":{"q":"Selon vous, l'OTAN doit-elle répondre plus fermement ?","opts":["Oui, tout de suite","Non, éviter l'escalade","Seulement par la diplomatie"],"suite":true}}

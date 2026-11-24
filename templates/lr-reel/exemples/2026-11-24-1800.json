@@ -1,0 +1,8 @@
+{"theme":"light","series":"IMMIGRATION","music":"music/lr-news-1.mp3","musicStart":8,
+"hook":{"big":"Le Massachusetts attaque l'ICE en justice","sub":"Arrestations dans les tribunaux"},
+"screens":[
+{"k":"LA PLAINTE","big":"Déposée lundi","txt":"La procureure générale Andrea Joy Campbell saisit la justice fédérale contre l'administration Trump."},
+{"k":"CE QU'ELLE VEUT","big":"Stop aux arrestations","txt":"Plus d'arrestations de l'ICE dans les tribunaux de l'État sans mandat signé par un juge."},
+{"k":"LES CHIFFRES","big":"38 arrestations","txt":"En deux semaines et demie, malgré une loi de l'État entrée en vigueur le 3 novembre, selon la procureure."},
+{"k":"LA RÉPONSE DU DHS","big":"« Économie de moyens »","txt":"Le DHS défend ces arrestations : les personnes visées se trouvent à un endroit connu."}],
+"final":{"q":"Les arrestations de l'ICE dans les tribunaux, vous êtes…","opts":["Pour","Contre","Seulement avec un mandat"],"suite":true}}

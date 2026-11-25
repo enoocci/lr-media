@@ -1,0 +1,8 @@
+{"theme":"dark","series":"UKRAINE","music":"music/lr-news-2.mp3","musicStart":60,
+"hook":{"big":"Raffineries : Poutine promet de riposter","sub":"Kyiv : « Arrêtez de vous plaindre »"},
+"screens":[
+{"k":"LE KREMLIN","big":"« Représailles inévitables »","txt":"Vladimir Poutine, mardi, devant des dirigeants du secteur pétrolier, après les frappes ukrainiennes sur ses raffineries."},
+{"k":"LA RÉPLIQUE","big":"« Finissez la guerre »","txt":"Le ministre ukrainien des Affaires étrangères, Andrii Sybiha : « Arrêtez de vous plaindre. Finissez la guerre. »"},
+{"k":"LA CONDITION DE KYIV","big":"Arrêt contre arrêt","txt":"L'Ukraine dit qu'elle cessera de viser l'énergie russe seulement quand Moscou fera de même."},
+{"k":"ET L'EUROPE","big":"Fin du GNL russe","txt":"L'UE cessera d'acheter du gaz naturel liquéfié russe par bateau à partir du 1er janvier."}],
+"final":{"q":"Frapper l'énergie de l'adversaire, c'est…","opts":["Légitime en temps de guerre","Une escalade dangereuse","À arrêter des deux côtés"],"suite":true}}

@@ -1,0 +1,8 @@
+{"theme":"light","series":"IMMIGRATION","music":"music/lr-news-1.mp3","musicStart":40,
+"hook":{"big":"Asile : des rapports qui minimisent le danger","sub":"Enquête de l'Associated Press"},
+"screens":[
+{"k":"CE QUE RÉVÈLE L'AP","big":"4 pays concernés","txt":"Guatemala, Mexique, Salvador, Honduras : des rapports de 6 pages préparés pour les tribunaux de l'immigration."},
+{"k":"LA CONTRADICTION","big":"« Faible criminalité »","txt":"C'est ainsi que le rapport décrit une région du Honduras que Washington déconseille pourtant aux Américains."},
+{"k":"LES REFUS D'ASILE","big":"94 % de rejets","txt":"Sous le 2e mandat Trump, contre environ 72 % à la fin du mandat Biden, selon le centre TRAC."},
+{"k":"LA RÉPONSE","big":"Le Département d'État assume","txt":"Il dit pouvoir « fournir des informations » sur les pays aux tribunaux et à l'USCIS."}],
+"final":{"q":"Ces rapports doivent-ils peser dans les décisions d'asile ?","opts":["Oui, c'est leur rôle","Non, ils sont biaisés","Seulement avec des experts indépendants"],"suite":false}}

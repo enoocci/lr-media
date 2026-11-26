@@ -1,0 +1,8 @@
+{"theme":"dark","series":"IMMIGRATION","music":"music/lr-news-2.mp3","musicStart":35,
+"hook":{"big":"ICE a payé 4 fois la valeur d'un entrepôt","sub":"Rapport du GAO, l'auditeur du Congrès"},
+"screens":[
+{"k":"EN GÉORGIE","big":"68 M$ pour 15 M$","txt":"À Oakwood, ICE a payé plus de 68 millions de dollars un entrepôt évalué à environ 15 millions par le comté."},
+{"k":"LE 2e ENTREPÔT","big":"128 M$ pour 58 M$","txt":"À Social Circle, le prix payé dépasse le double de la valeur estimée. Ces entrepôts devaient devenir des centres de détention."},
+{"k":"11 ENTREPÔTS AU TOTAL","big":"Plus d'1\u00a0milliard\u00a0$","txt":"Achetés début 2026, tous au-dessus de leur valeur estimée. ICE prévoit désormais d'en revendre sept."},
+{"k":"DES LITS VIDES","big":"13 M$ par mois","txt":"Le coût moyen des lits inoccupés dans 4 nouveaux centres, d'octobre 2025 à avril 2026, selon le GAO."}],
+"final":{"q":"Ces dépenses de l'ICE, c'est…","opts":["Un gaspillage","Le prix d'un grand plan","À faire contrôler par le Congrès"],"suite":false}}

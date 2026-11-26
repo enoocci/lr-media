@@ -1,0 +1,8 @@
+{"theme":"light","series":"HAÏTI","music":"music/lr-haiti.mp3","musicStart":55,
+"hook":{"big":"La « rançon » d'Haïti devant les députés français","sub":"150 millions de francs-or imposés en 1825"},
+"screens":[
+{"k":"MERCREDI À PARIS","big":"Un premier feu vert","txt":"La commission des Lois de l'Assemblée nationale a adopté une proposition de loi sur la réparation de l'esclavage."},
+{"k":"RETOUR EN 1825","big":"150 millions de francs-or","txt":"La somme imposée par Charles X à Haïti en échange de la reconnaissance de son indépendance."},
+{"k":"CE QUE PRÉVOIT LE TEXTE","big":"Une instance pour Haïti","txt":"Elle devra se prononcer sur les sommes dues à Haïti. Une autre commission étudiera les réparations de l'esclavage."},
+{"k":"LA SUITE","big":"Débat le 3 décembre","txt":"Le texte du député écologiste Steevy Gustave ira dans l'hémicycle. Le RN et la droite se sont abstenus en commission."}],
+"final":{"q":"La France doit-elle rembourser Haïti ?","opts":["Oui, entièrement","Oui, sous une autre forme","Non, c'est du passé"],"suite":false}}

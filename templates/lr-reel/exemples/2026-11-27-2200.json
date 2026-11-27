@@ -1,0 +1,8 @@
+{"theme":"light","series":"HAÏTI","music":"music/lr-haiti.mp3","musicStart":20,
+"hook":{"big":"Santé en Haïti : le chef de l'OMS sonne l'alarme","sub":"Tedros Ghebreyesus en visite à Port-au-Prince"},
+"screens":[
+{"k":"MERCREDI 25 NOVEMBRE","big":"Visite à l'HUP","txt":"Le directeur général de l'OMS a été reçu par le ministère de la Santé et a visité l'Hôpital universitaire La Paix."},
+{"k":"LES BESOINS","big":"4,9 millions","txt":"C'est le nombre de personnes qui ont besoin d'une aide sanitaire en Haïti cette année, selon l'OMS."},
+{"k":"UN HÔPITAL CLÉ","big":"19 575 urgences","txt":"Prises en charge à l'HUP depuis janvier, avec 3 086 opérations. C'est le dernier grand hôpital public de référence de la capitale."},
+{"k":"L'ANNONCE","big":"1 million $","txt":"L'OMS annonce un appui d'un million de dollars pour l'HUP et le secteur de la santé."}],
+"final":{"q":"La priorité pour la santé en Haïti ?","opts":["Rouvrir les hôpitaux","Payer et garder le personnel","Plus d'aide internationale"],"suite":false}}

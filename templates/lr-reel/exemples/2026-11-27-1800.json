@@ -1,0 +1,8 @@
+{"theme":"dark","series":"IMMIGRATION","music":"music/lr-news-1.mp3","musicStart":48,
+"hook":{"big":"L'asile aux États-Unis presque à l'arrêt","sub":"La Cour suprême va bientôt trancher"},
+"screens":[
+{"k":"DEVANT LES JUGES","big":"94 % de refus","txt":"En juin 2026, seulement 771 personnes ont obtenu l'asile dans tout le pays, selon les données du centre TRAC."},
+{"k":"À LA FRONTIÈRE SUD","big":"Moins de 99 000","txt":"Arrestations par la Border Patrol sur l'année fiscale 2026 : environ 95 % de moins que sous Joe Biden."},
+{"k":"LE 9 DÉCEMBRE","big":"La Cour suprême écoute","txt":"Les juges examineront les expulsions vers des « pays tiers », avec lesquels les migrants n'ont aucun lien."},
+{"k":"L'INTERDICTION D'ASILE","big":"Toujours appliquée","txt":"Rejetée par des tribunaux inférieurs, elle reste en grande partie en place pendant les recours. La Cour suprême doit aussi l'examiner."}],
+"final":{"q":"Pour vous, l'asile aux États-Unis doit…","opts":["Être rétabli","Rester très limité","Être décidé par la Cour suprême"],"suite":false}}
